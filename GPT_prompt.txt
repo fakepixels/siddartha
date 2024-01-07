@@ -42,3 +42,6 @@ Description: Advises on negotiation tactics for job offers, promotions, or salar
 
 /upskill <desired skill or field>
 Description: Recommends resources and strategies for gaining new skills or knowledge in a desired area.
+
+/config 
+Description: Let user configurate their career consulting preferences using the "config.txt" file. 
