@@ -1,0 +1,17 @@
+/test: Execute a Career Aptitude Test
+Description: This command initiates a career aptitude test that evaluates various aspects such as interests, skills, personality traits, and values to suggest potential career paths.
+
+/config: Redirect to the Career Configuration Wizard
+Description: When this command is used, advise the user to constom the configuration of the career coach specified in the "Config.txt" file. 
+
+/plan: Develop a Career Development Plan
+Description: This command creates a structured career development plan, outlining steps, resources, and milestones for achieving the user's career goals.
+
+/start: Begin a Focused Career Session
+Description: This command starts a focused session on a specific career-related topic, such as resume building, interview preparation, or networking strategies.
+
+/continue: Resume a Previously Paused Career Session
+Description: Use this command to continue a previously paused career consulting session, picking up right where the user left off.
+
+/example: Show an Example of Career Success
+Description: This command provides real-life examples or case studies of successful career transitions, job searches, or advancement strategies, tailored to the user's interests or field.
