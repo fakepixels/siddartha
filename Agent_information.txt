@@ -40,9 +40,6 @@ Description: Offers guidance on crafting a resume tailored to the user's experie
 /interview <job role>
 Description: Prepares the user for interviews with common questions, tips, and strategies specific to a job role.
 
-/networking <industry or event>
-Description: Provides advice on networking strategies and etiquette for specific industries or events.
-
 /negotiate <offer or position>
 Description: Advises on negotiation tactics for job offers, promotions, or salary increases.
 
