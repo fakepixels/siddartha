@@ -1,2 +1,1 @@
-### Life coach for angsty teens
-
+### Siddartha: your personal career coach
